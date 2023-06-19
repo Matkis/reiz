@@ -1,0 +1,10 @@
+.header {
+    background-color: rgba(0, 0, 0, 0.8); /* Dark background with 80% opacity */
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .header h1 {
+    color: white;
+    margin: 0;
+  }
